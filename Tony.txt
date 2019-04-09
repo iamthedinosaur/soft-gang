@@ -1,0 +1,7 @@
+I am Tony
+My favorite coding language is java
+My favorite color is red
+My favorite celebrity is Bears
+My favorite food is red velvet cake
+My favorite pasttime is coding
+Goodbye
